@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello world!
 
-<!--
-**EPICDRAGON328/EPICDRAGON328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-Here are some ideas to get you started:
+### Soy Tomas Gonzalez Perez
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudiante de San Jose Vegas, en bachiderato grado 10°
+- 🌱 Colombia, antioquia
+- 💬 En proceso de aprender programacion en Java y python
+- ⚡ Quiero aprender a programar IAs y sistemas 
+
+
+> ***Me gusta escuchar musica y jugar juegos, siempre estoy dispuesto a conocer a personas nuevas y hablar un rato sobre cualquier vosa😊***
+
+⭐️ From EPICDRAGON328
+

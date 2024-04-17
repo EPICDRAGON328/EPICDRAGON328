@@ -11,7 +11,7 @@
 - ⚡ Quiero aprender a programar IAs y sistemas 
 
 
-> ***Me gusta escuchar musica y jugar juegos, siempre estoy dispuesto a conocer a personas nuevas y hablar un rato sobre cualquier vosa😊***
+> ***Me gusta escuchar musica y jugar juegos, siempre estoy dispuesto a conocer a personas nuevas y hablar un rato sobre cualquier cosa.***
 
 ⭐️ From EPICDRAGON328
 
